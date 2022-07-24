@@ -12,4 +12,4 @@
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="acad" width="40" height="40"/> </a> </p>
+<a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="acad" width="40" height="35"/> </a> </p>
