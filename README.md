@@ -7,7 +7,7 @@
 
 <img align="right" alt="gifSlika" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<h3 align="left">Languages and Tools:</h3> <br>
+<h3 align="left">Languages and Tools:</h3> 
 
 <p align="left"> 
 
