@@ -5,8 +5,5 @@
 <p align="left">
 </p>
 
-<img align="right" alt="gifSlika" width="500" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-<h3 align="left">Languages and Tools:</h3> 
-
+<img align="right" alt="gifSlika" width="450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
