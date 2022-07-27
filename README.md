@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Žarko Obradović</h1>
-<h3 align="center">I'm from Serbia</h3>
+<h3 align="center">information technology engineer</h3>
 
 
 <p align="center">
