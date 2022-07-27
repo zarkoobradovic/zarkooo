@@ -5,5 +5,5 @@
 <p align="left">
 </p>
 
-<img align="right" alt="gifSlika" width="450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="center" alt="gifSlika" width="450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
