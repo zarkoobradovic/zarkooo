@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img align="center" alt="gifSlika" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="center" alt="gifSlika" width="350" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 </p>
 
 
